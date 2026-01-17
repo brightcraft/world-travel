@@ -35,7 +35,7 @@ This website was developed using the following technologies and resources:
 
 1. Clone or download the repository to your local machine:
    ```
-   git clone https://github.com/ndriqimlahu/world-travel.git
+   git clone https://github.com/brightcraft/world-travel.git
    ```
 2. Navigate to the repository folder on your local machine.
 3. Open the `index.html` file in any modern web browser to view the website locally.
@@ -46,43 +46,43 @@ Below you can see some additional useful screenshots of what the website looks l
 
 - Home page | Home page — Offers and customers
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/01.1-Home%20page%20(Welcome).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/01.2-Home%20page%20(Offers%20and%20Customers).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/01.1-Home%20page%20(Welcome).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/01.2-Home%20page%20(Offers%20and%20Customers).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - Our Offer page — Latest offers | Our Offer page — All listed offers
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.1-Our%20Offer%20page%20(Latest%20Offers).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.2-Our%20Offer%20page%20(All%20Offers).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/02.1-Our%20Offer%20page%20(Latest%20Offers).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/02.2-Our%20Offer%20page%20(All%20Offers).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - Our Offer page — Offers for European countries | Our Offer page — Offers for American countries
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.3-Our%20Offer%20page%20(Europe%20Offers).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.4-Our%20Offer%20page%20(America%20Offers).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/02.3-Our%20Offer%20page%20(Europe%20Offers).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/02.4-Our%20Offer%20page%20(America%20Offers).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - Our Offer page — Offers for Asian countries | About Us page — History and principles
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/02.5-Our%20Offer%20page%20(Asia%20Offers).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.1-About%20Us%20page%20(Our%20History%20and%20Principle).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/02.5-Our%20Offer%20page%20(Asia%20Offers).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/03.1-About%20Us%20page%20(Our%20History%20and%20Principle).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - About Us page — Team members | About Us page — Best travels and public relations
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.2-About%20Us%20page%20(Our%20Team).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/03.3-About%20Us%20page%20(Best%20Travels).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/03.2-About%20Us%20page%20(Our%20Team).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/03.3-About%20Us%20page%20(Best%20Travels).png" align="top" width="48%" height="auto">
    <hr>
 </div>
 
 - Customer Protection page — Safety during travel | Contact page — Agency contact details
 <div>
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/04-Customer%20Protection%20page%20(Safety).png" align="top" width="48%" height="auto">
-   <img src="https://raw.githubusercontent.com/ndriqimlahu/world-travel/main/preview/05-Contact%20page%20(Contact%20the%20Agency).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/04-Customer%20Protection%20page%20(Safety).png" align="top" width="48%" height="auto">
+   <img src="https://raw.githubusercontent.com/brightcraft/world-travel/main/preview/05-Contact%20page%20(Contact%20the%20Agency).png" align="top" width="48%" height="auto">
 </div>
 
 ## Support
